@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-06-27T02:11:42.966+03:00" lasteditedby="Man" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Introduction</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Инструкция пользования проектом</para>
+    </header>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Welcome-topic">Welcome topic</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Second-topic">Second topic</link></para>
+  </body>
+</topic>

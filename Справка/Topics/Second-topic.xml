@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-06-27T02:10:53.998+03:00" lasteditedby="Man" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Second topic</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Руководство пользования проектом</para>
+    </header>
+    <para styleclass="Normal">После заставки вам откроется глвная форма, на которой размещаются 3 кнопки. Первая кнопка отвечает за терию, при нажати на неё вы попадаете на новую форму, где при нажатии на кнопку вам откроется pdf-файл с теорией. Вторая кнопка отвечает за тест, при нажатии на неё &#160;вы попадете на форму где вам надо пройти регистрацию, после чего вы сможете пройти тест и вам в конце выставят оценку. Третяя кнопка отвечает за выход ищ программы.</para>
+  </body>
+</topic>

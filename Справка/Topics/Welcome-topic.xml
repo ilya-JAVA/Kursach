@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-06-27T02:06:33.565+03:00" lasteditedby="Man" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Welcome topic</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">О проекте</para>
+    </header>
+    <para styleclass="Normal">Данное электронно-обучающее приложение по геометрии. Помжет пользователю изучить раздел &quot;Объёмные вращающиеся тела&quot;. Данная справка поможет вам разобраться, как им пользоваться</para>
+  </body>
+</topic>
